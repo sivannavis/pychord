@@ -24,6 +24,7 @@ DEFAULT_QUALITIES = [
     ('6', (0, 4, 7, 9)),
     ('6b5', (0, 4, 6, 9)),  # https://www.scales-chords.com/chord/piano/C%236b5
     ('6-5', (0, 4, 6, 9)),  # https://www.scales-chords.com/chord/piano/C%236b5
+    ('aug6', (0, 4, 8, 9)),  # https://www.scales-chords.com/chord/guitar/Caug6
     ('7', (0, 4, 7, 10)),
     ('7-5', (0, 4, 6, 10)),
     ('7b5', (0, 4, 6, 10)),
@@ -63,7 +64,7 @@ DEFAULT_QUALITIES = [
     ('9sus4', (0, 5, 7, 10, 14)),
     ('7-9', (0, 4, 7, 10, 13)),
     ('7b9', (0, 4, 7, 10, 13)),
-    ('7(b9)', (0, 4, 7, 10, 13)),   # https://www.oolimo.com/guitarchords/Fsharp7(b9)
+    ('7(b9)', (0, 4, 7, 10, 13)),  # https://www.oolimo.com/guitarchords/Fsharp7(b9)
     ('7+9', (0, 4, 7, 10, 15)),
     ('7#9', (0, 4, 7, 10, 15)),
     ('9-5', (0, 4, 6, 10, 14)),
@@ -92,7 +93,7 @@ DEFAULT_QUALITIES = [
     ('7b9b13', (0, 4, 7, 10, 13, 17, 20)),
     ('9+11', (0, 4, 7, 10, 14, 18)),
     ('9#11', (0, 4, 7, 10, 14, 18)),
-    ('m11', (0, 3, 7, 10, 14, 17)),    # https://chord-c.com/guitar-chord/B/minor-eleventh/
+    ('m11', (0, 3, 7, 10, 14, 17)),  # https://chord-c.com/guitar-chord/B/minor-eleventh/
     ('13', (0, 4, 7, 10, 14, 21)),
     ('13-9', (0, 4, 7, 10, 13, 21)),
     ('13b9', (0, 4, 7, 10, 13, 21)),
@@ -100,6 +101,6 @@ DEFAULT_QUALITIES = [
     ('13#9', (0, 4, 7, 10, 15, 21)),
     ('13+11', (0, 4, 7, 10, 18, 21)),
     ('13#11', (0, 4, 7, 10, 18, 21)),
-    ('maj13', (0, 4, 7, 11, 14, 21)),   # https://chord-c.com/guitar-chord/C/major-thirteenth/
+    ('maj13', (0, 4, 7, 11, 14, 21)),  # https://chord-c.com/guitar-chord/C/major-thirteenth/
     ('M7add13', (0, 4, 7, 9, 11, 14))
 ]
