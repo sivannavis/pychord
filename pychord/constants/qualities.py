@@ -23,6 +23,7 @@ DEFAULT_QUALITIES = [
     # 4 notes
     ('6', (0, 4, 7, 9)),
     ('sixth', (0, 4, 7, 9)),
+    ('maj6', (0, 4, 7, 9)),
     ('6b5', (0, 4, 6, 9)),  # https://www.scales-chords.com/chord/piano/C%236b5
     ('6-5', (0, 4, 6, 9)),  # https://www.scales-chords.com/chord/piano/C%236b5
     # ('aug6', (0, 4, 8, 9)),  # https://www.scales-chords.com/chord/guitar/Caug6
