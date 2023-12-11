@@ -22,10 +22,12 @@ DEFAULT_QUALITIES = [
     ('sus', (0, 5, 7)),
     # 4 notes
     ('6', (0, 4, 7, 9)),
+    ('sixth', (0, 4, 7, 9)),
     ('6b5', (0, 4, 6, 9)),  # https://www.scales-chords.com/chord/piano/C%236b5
     ('6-5', (0, 4, 6, 9)),  # https://www.scales-chords.com/chord/piano/C%236b5
-    ('aug6', (0, 4, 8, 9)),  # https://www.scales-chords.com/chord/guitar/Caug6
+    # ('aug6', (0, 4, 8, 9)),  # https://www.scales-chords.com/chord/guitar/Caug6
     ('7', (0, 4, 7, 10)),
+    ('seventh', (0, 4, 7, 10)),
     ('7-5', (0, 4, 6, 10)),
     ('7b5', (0, 4, 6, 10)),
     ('7+5', (0, 4, 8, 10)),
@@ -34,6 +36,7 @@ DEFAULT_QUALITIES = [
     ('m6', (0, 3, 7, 9)),
     ('m7', (0, 3, 7, 10)),
     ('m7-5', (0, 3, 6, 10)),
+    ('hdim7', (0, 3, 6, 10)),
     ('m7b5', (0, 3, 6, 10)),
     ('m7+5', (0, 3, 8, 10)),
     ('m7#5', (0, 3, 8, 10)),
