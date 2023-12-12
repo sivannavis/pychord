@@ -14,8 +14,6 @@ def parse(chord: str) -> Tuple[str, Quality, List[str], str]:
     :param chord: str expression of a chord
     :return: (root, quality, appended, on)
     """
-    print(chord)
-
     if len(chord) > 1 and chord[1] in ("b", "#"):
         root = chord[:2]
         rest = chord[2:]
